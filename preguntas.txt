@@ -1,0 +1,12 @@
+Punto más débil de PGP: La gestión de claves puede ser un punto débil. La seguridad de PGP depende en gran medida de cómo se gestionan y protegen las claves privadas.
+
+Cuándo usar solo cifrado simétrico: Es conveniente utilizar solo cifrado simétrico cuando se necesita alta velocidad y eficiencia para cifrar grandes volúmenes de datos, y cuando el intercambio seguro de la clave simétrica se puede garantizar mediante otro medio seguro.
+
+Ciclo de vida del desarrollo de software seguro (etapa por etapa):
+
+Planificación: Definición de requisitos de seguridad y amenazas.
+Diseño: Diseño arquitectónico y de seguridad del software.
+Implementación: Codificación segura y uso de prácticas de desarrollo seguras.
+Pruebas: Realización de pruebas de seguridad y análisis de vulnerabilidades.
+Despliegue: Implementación segura y monitoreo de la seguridad.
+Mantenimiento: Actualización y parcheo para abordar nuevas vulnerabilidades y mantener la seguridad.
